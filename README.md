@@ -39,10 +39,25 @@ __Fortune__ favors the bold
 
 ## Persons Of Interest
 [Markiplier][1]<br>
+<kbd>
+![Mark](https://github.com/thetakenpython-byte/AboutMe/blob/main/Mark.webp)
+  </kbd><br>
 [Jacksepticeye][2]<br>
-![Jack]()
+<kbd>
+![Jack](https://github.com/thetakenpython-byte/AboutMe/blob/main/Jack.webp)
+  </kbd><br>
 [Ryan Hall Y'all][3]<br>
+<kbd>
 ![Ryan](https://github.com/thetakenpython-byte/AboutMe/blob/main/ryannnnuh.jpg)
+  </kbd><br>
 
+## Favorite Terms
+
+| Weather Terms | Definitions | My Reasoning |
+|:-| :----: | ---:|  
+|Fair| Weather showing no extreme or stormy coniditons | A day of no rain |
+|Shower| A short period of rain | Imagine your shower but outside |
+|Rainbow| Sunlight cut by rain showers | A sign of hope! |
+|Tempurature| A measurement of heat and cold | How hot or cold it is right now |
 
 Markdown Tutorial
