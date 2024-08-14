@@ -38,9 +38,10 @@ __Fortune__ favors the bold
 [Leave The Warp][Enter The Warp!]
 
 ## Persons Of Interest
-[Markiplier][1]
-[Jacksepticeye][2]
-[Ryan Hall Y'all][3]
+[Markiplier][1]<br>
+[Jacksepticeye][2]<br>
+![Jack]()
+[Ryan Hall Y'all][3]<br>
 ![Ryan](https://github.com/thetakenpython-byte/AboutMe/blob/main/ryannnnuh.jpg)
 
 
